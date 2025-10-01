@@ -1,0 +1,17 @@
+Origin: Cydiabat
+Label: Cydiabat Repository
+Suite: stable
+Version: 1.0
+Codename: Cydiabat
+Architectures: iphoneos-arm
+Components: main
+Description: Repo Cydiabat - tweak, app e pacchetti per iPhone jailbroken
+MD5Sum:
+  6626ee45b41f6aef813a19a3c56cfe22 Packages
+  ac513a8a57fd2db7c64376b9107e3ad3 Packages.gz
+SHA1:
+  541b8129ac4896cef3d190dbfdd456c36022b29f Packages
+  363aec3cc17a4d5362a0ef9896bd1f3280c28191 Packages.gz
+SHA256:
+  81c5cd3897e8356330d5146e917950a08be9854b7d7dbe4251cc53139463349c Packages
+  fad130a0ccb70d535f5ccb568fbbbd149241e1d455a2ad888ec9125d0a193fa9 Packages.gz
